@@ -25,6 +25,8 @@
  * Released under the MIT License
  */
 
+/*! dom-to-image-more 20-08-2025 */
+
 /**
  * @license React
  * react-dom.production.min.js
